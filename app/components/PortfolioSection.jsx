@@ -31,7 +31,7 @@ export default function PortfolioSection() {
     {
       title: "Cab Booking Software",
       category: "IT",
-      image: "/portfolio/cabBooking.png",
+      image: "/portfolio/CabBooking.png",
       description: "User Friendly Cab Booking Software"
     },
     {
