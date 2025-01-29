@@ -167,7 +167,7 @@ export default function ContactSection() {
                 </div>
                 <div>
                   <p className="text-white/60">Email</p>
-                  <p className="text-white font-semibold">mentpath@gmail.com</p>
+                  <p className="text-white font-semibold">hr@nexadev.in</p>
                 </div>
               </motion.div>
 
